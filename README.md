@@ -6,12 +6,11 @@ clone this app by using git
 
 download required dependencies 
 
-express 
+express , 
 flicker-sdk
+For node modules dependencies Refer (package.json) file
 
-Refer (package.json) file
-
-run application by using node app
+run application by using command "node app"
 
 application will statrt with port number 3000
 http://localhost:3000/
